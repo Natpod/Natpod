@@ -21,12 +21,15 @@ Here are some ideas to get you started:
 </a>
 
 <n>
+  </n>
 
 - 🔭 I’m currently working on RNAseq analysis using R for my Final Master's Thesis
 - 📫 How to reach me: natalia.garcia.sanchez14@hotmail.com
 - 😄 Pronouns: she/her
 
 <n>
+  </n>
+  
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natpod&layout=compact" />
