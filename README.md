@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Natpod&hide=contribs,prs&show_icons=true&theme=synthwave" />
 </a>
 
+
+
 - 🔭 I’m currently working on RNAseq analysis using R for my Final Master's Thesis
 - 📫 How to reach me: natalia.garcia.sanchez14@hotmail.com
 - 😄 Pronouns: she/her
