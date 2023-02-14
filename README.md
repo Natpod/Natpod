@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Natpod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natpod&hide=contribs,prs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Natpod&hide=contribs,prs&show_icons=true&theme=synthwave" />
+</a>
 
 - 🔭 I’m currently working on RNAseq analysis using R for my Final Master's Thesis
 - 📫 How to reach me: natalia.garcia.sanchez14@hotmail.com
 - 😄 Pronouns: she/her
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natpod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Natalie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Natpod)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natpod&layout=compact" />
+</a>
