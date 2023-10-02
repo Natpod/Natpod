@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on RNAseq analysis using R for my Final Master's Thesis
+- 🔭 I’m currently working on omics biological data analysis (transcriptomics RNA-seq microarray / proteomics / epigenomics data)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-- 🔭 I’m currently working on RNAseq analysis using R for my Final Master's Thesis
+- 🔭 I’m currently working on omics biological data analysis (transcriptomics RNA-seq microarray / proteomics / epigenomics data)
 - 📫 How to reach me: natalia.garcia.sanchez14@hotmail.com
 - 😄 Pronouns: she/her
 
