@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on NLP applications in clinical datasets and omics biological data analysis (transcriptomics RNA-seq microarray / proteomics / epigenomics data)
 - 📫 How to reach me: natalia.garcia.sanchez14@hotmail.com
 - 😄 Pronouns: she/her
-- Webpage: [https://bsse.ethz.ch/department/open-positions.html]
+- Webpage: [https://natpod.github.io/](Side Project Page)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Natpod&hide=contribs,prs&show_icons=true&theme=synthwave" />
